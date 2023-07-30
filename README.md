@@ -5,7 +5,9 @@
 - 📫 How to reach me: 2413302357@qq.com
 
 ---
-myblog: [link](https://www.r1cardohj.fun/)
+#### myblog  
 
-i will write some funny shit on my site
+[https://www.r1cardohj.fun](https://www.r1cardohj.fun/)
+
+i will write some funny shit on my site ^_^
 
