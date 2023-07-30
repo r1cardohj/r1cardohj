@@ -6,5 +6,6 @@
 
 ---
 myblog: [link](https://www.r1cardohj.fun/)
+
 i will write some funny shit on my site
 
